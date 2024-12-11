@@ -68,4 +68,4 @@ jobs:
            SSC_URL: http://b8d00bd32ecb.sn.mynetname.net:8080/ssc
            SSC_TOKEN: 3c5953fb-0d02-4aa9-9344-7724029a4931
            SSC_APPVERSION: 8ball:6
-      #
+      ##
